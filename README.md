@@ -35,13 +35,9 @@ This repository includes the following key topics covered in **Paper 4**:
 ---
 
 ## 🔗 Additional Resources
-Here are additional study materials to help with **Paper 1, Paper 3, and Paper 4**:
+All **Paper 1, Paper 3** notes and topicals are available in the following Google Drive link:
 
-- 📄 **Paper 1 Notes** → [Google Drive Link]([#](https://drive.google.com/drive/u/1/folders/1sy3nuJoflCOEpzxZETzRfx8d8nLjux7e))
-- 📂 **Paper 1 Topicals** → [Google Drive Link]([#](https://drive.google.com/drive/u/1/folders/1sy3nuJoflCOEpzxZETzRfx8d8nLjux7e))
-- 📄 **Paper 3 Notes** → [Google Drive Link]([#](https://drive.google.com/drive/u/1/folders/1sy3nuJoflCOEpzxZETzRfx8d8nLjux7e))
-- 📂 **Paper 3 Topicals** → [Google Drive Link]([#](https://drive.google.com/drive/u/1/folders/1sy3nuJoflCOEpzxZETzRfx8d8nLjux7e))
-
+📂 **Complete Notes & Topicals** → [Google Drive Link](https://drive.google.com/drive/folders/1sy3nuJoflCOEpzxZETzRfx8d8nLjux7e?usp=sharing)
 
 ---
 
@@ -61,6 +57,9 @@ If you have additional useful algorithms, feel free to **submit a pull request**
 ---
 
 ## 📧 Contact
+If you have any questions or suggestions, feel free to reach out!
+
+🔗 **LinkedIn:** [Abdul Rehman](https://www.linkedin.com/in/abdulrehmanyaser/)
 If you have any questions or suggestions, feel free to reach out!
 
 ---
