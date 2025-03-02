@@ -37,10 +37,11 @@ This repository includes the following key topics covered in **Paper 4**:
 ## 🔗 Additional Resources
 Here are additional study materials to help with **Paper 1, Paper 3, and Paper 4**:
 
-- 📄 **Paper 1 Notes** → [Google Drive Link](#)
-- 📂 **Paper 1 Topicals** → [Google Drive Link](#)
-- 📄 **Paper 3 Notes** → [Google Drive Link](#)
-- 📂 **Paper 3 Topicals** → [Google Drive Link](#)
+- 📄 **Paper 1 Notes** → [Google Drive Link]([#](https://drive.google.com/drive/u/1/folders/1sy3nuJoflCOEpzxZETzRfx8d8nLjux7e))
+- 📂 **Paper 1 Topicals** → [Google Drive Link]([#](https://drive.google.com/drive/u/1/folders/1sy3nuJoflCOEpzxZETzRfx8d8nLjux7e))
+- 📄 **Paper 3 Notes** → [Google Drive Link]([#](https://drive.google.com/drive/u/1/folders/1sy3nuJoflCOEpzxZETzRfx8d8nLjux7e))
+- 📂 **Paper 3 Topicals** → [Google Drive Link]([#](https://drive.google.com/drive/u/1/folders/1sy3nuJoflCOEpzxZETzRfx8d8nLjux7e))
+
 
 ---
 
