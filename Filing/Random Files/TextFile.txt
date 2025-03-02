@@ -1,0 +1,16 @@
+John Doe, 10th, 16, 85.5
+Jane Smith, 11th, 17, 90.2
+Michael Johnson, 9th, 15, 78.9
+Emily Brown, 12th, 18, 95.0
+David Lee, 10th, 16, 88.3
+Sarah Garcia, 11th, 17, 91.8
+Daniel Martinez, 9th, 15, 75.6
+Olivia Taylor, 12th, 18, 94.5
+Matthew Anderson, 10th, 16, 87.1
+Emma Hernandez, 11th, 17, 89.6
+Christopher Lopez, 9th, 15, 79.2
+Sophia Gonzalez, 12th, 18, 96.3
+William Wilson, 10th, 16, 86.7
+Isabella Martinez, 11th, 17, 92.4
+Ethan Robinson, 9th, 15, 77.8
+Ava Perez, 12th, 18, 93.7
